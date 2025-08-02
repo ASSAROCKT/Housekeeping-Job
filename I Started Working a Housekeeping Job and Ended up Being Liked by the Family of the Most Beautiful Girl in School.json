@@ -6,72 +6,72 @@
   "cover": "https://cdn.discordapp.com/attachments/1029722252259893279/1401183338022043688/P000a.jpg?ex=688f592c&is=688e07ac&hm=8017871e6dc6de64854d0aee99df39658abfd6a4f8377b31f3212df27cf87fd9",
   "genres": ["Harem", "Romance", "School Life"],
   "status": "Ongoing",
-  "chapters": {
-    "chapter-0": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter1.mdx"
-    },
-    "chapter-1": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter2.mdx"
-    },
-    "chapter-2": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter3P1.mdx"
-    },
-    "chapter-3": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter3P2.mdx"
-    },
-    "chapter-4": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter4P1.mdx"
-    },
-    "chapter-5": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter4P2.mdx"
-    },
-    "chapter-6": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter5P1.mdx"
-    },
-    "chapter-7": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter5P2.mdx"
-    },
-    "chapter-8": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter6P1.mdx"
-    },
-    "chapter-9": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter6P2.mdx"
-    },
-    "chapter-10": {
-      "volume": "1",
-      "title": "",
-      "last_updated": 1754160000000,
-      "url": "Chapter7.mdx"
-    }
+"chapters": {
+  "chapter-0": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730505600000,
+    "url": "Chapter1.mdx"
+  },
+  "chapter-1": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730592000000,
+    "url": "Chapter2.mdx"
+  },
+  "chapter-2": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730678400000,
+    "url": "Chapter3P1.mdx"
+  },
+  "chapter-3": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730764800000,
+    "url": "Chapter3P2.mdx"
+  },
+  "chapter-4": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730851200000,
+    "url": "Chapter4P1.mdx"
+  },
+  "chapter-5": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1730937600000,
+    "url": "Chapter4P2.mdx"
+  },
+  "chapter-6": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1731024000000,
+    "url": "Chapter5P1.mdx"
+  },
+  "chapter-7": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1731110400000,
+    "url": "Chapter5P2.mdx"
+  },
+  "chapter-8": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1731196800000,
+    "url": "Chapter6P1.mdx"
+  },
+  "chapter-9": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1731283200000,
+    "url": "Chapter6P2.mdx"
+  },
+  "chapter-10": {
+    "volume": "1",
+    "title": "",
+    "last_updated": 1731369600000,
+    "url": "Chapter7.mdx"
   }
+}
 }
